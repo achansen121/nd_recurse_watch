@@ -1,0 +1,17 @@
+{
+  "name": "traversedir",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "traversedir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "_id": "traversedir@1.0.0",
+  "_shasum": "fc64e9f9ddbcc66dc543b1f5f8a43964020c8b8d",
+  "_from": "../traversedir",
+  "_resolved": "file:../traversedir"
+}
